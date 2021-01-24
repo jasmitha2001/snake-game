@@ -21,7 +21,7 @@ To move down ? Bend your hand down👎
 # Resources 
 code for snake game:  http://zetcode.com/javascript/snake/
 
-Test teachable Machine on your device:
+Test teachable Machine on your device:https://teachablemachine.withgoogle.com/models/McN8eXFGl/
 
 Heroku link : https://calm-refuge-73947.herokuapp.com/
 
