@@ -10,11 +10,11 @@ Objective:"Snake game using AI"
 
 This is the explanation of our game..........
 
-In our game snake have to pick the fruit and thaen snake increases its size and length,and this is our game
+In our game,snake have to pick the fruit and then snake increases its size and length.If it crosses the boundary game ends.
 
 # how to play a game.............??
 
-To move right side ? Raise your right hand(Make sure you dont raise above your head position) 🙋‍♀️
+To move right side ? Raise your right hand(Make sure you dont raise above your head position) 
 
 To move left side ? Raise your left hand(Make sure you dont raise above your head position) 🙋‍♀️
 
