@@ -6,7 +6,7 @@ Objective:"Snake game using AI"
 
 This is the explanation of our game..........
 
-In our game snake have to pick the fruit and then it increase the length of snake.
+In our game snake have to pick the fruit and thaen snake increases its size and length,and this is our game
 
 # how to play a game.............??
 
