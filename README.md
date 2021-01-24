@@ -25,4 +25,4 @@ Test teachable Machine on your device:https://teachablemachine.withgoogle.com/mo
 
 Heroku link : https://calm-refuge-73947.herokuapp.com/
 
-Detailed explanation of our video link:
+Detailed explanation of our video link:https://drive.google.com/file/d/1RcO9ehLStbEqU9yej1ClUY9HdqTuU6VE/view?usp=sharing
