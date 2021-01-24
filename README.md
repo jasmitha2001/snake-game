@@ -1,10 +1,10 @@
 # snake-game
 
-Team members are :
+Team members :
 
      18PA1A05G5
 
-     18PA1A0557 // We, together done this project sir .
+     18PA1A0557 
 
 Objective:"Snake game using AI"
 
